@@ -1,0 +1,17 @@
+commit 274a779a510a692a5e16957a44c52f1f415d02d5
+Author: joaopedro2017 <alunoces@labcesac.net>
+Date:   Thu Jun 6 20:34:37 2019 -0300
+
+    Questao 04
+
+commit 1700b0c728912fd0b50643d2a209b5e5e66764d6
+Author: joaopedro2017 <alunoces@labcesac.net>
+Date:   Thu Jun 6 20:28:11 2019 -0300
+
+    Questao 03
+
+commit 2efdf7a7eb2d8c3254c442e5f181128ae7729c95
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Jun 6 19:59:57 2019 -0300
+
+    Questao 02

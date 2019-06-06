@@ -1,0 +1,5 @@
+commit 2efdf7a7eb2d8c3254c442e5f181128ae7729c95
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Jun 6 19:59:57 2019 -0300
+
+    Questao 02
